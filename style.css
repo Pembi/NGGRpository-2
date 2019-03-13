@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #26c6da;
+}
+
+h1 {
+  font-family: "Roboo", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
